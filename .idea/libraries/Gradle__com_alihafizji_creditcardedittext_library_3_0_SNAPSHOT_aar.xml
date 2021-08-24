@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.alihafizji.creditcardedittext:library:3.0-SNAPSHOT@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b79ab3f02c57e87063e08395eec22da3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b79ab3f02c57e87063e08395eec22da3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b79ab3f02c57e87063e08395eec22da3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

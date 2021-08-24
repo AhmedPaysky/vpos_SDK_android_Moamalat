@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.pro100svitlo:creditCardNfcReader:1.0.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8a055b0107155a10593f3caf82a9d8e8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8a055b0107155a10593f3caf82a9d8e8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8a055b0107155a10593f3caf82a9d8e8/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8a055b0107155a10593f3caf82a9d8e8/jars/libs/bit-lib4j-1.4.12.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8a055b0107155a10593f3caf82a9d8e8/jars/libs/commons-collections4-4.0.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8a055b0107155a10593f3caf82a9d8e8/jars/libs/commons-lang3-3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.pro100svitlo/creditCardNfcReader/1.0.3/a42d47293b96d0c10e6183c27fcf49247dc99ff3/creditCardNfcReader-1.0.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.pro100svitlo/creditCardNfcReader/1.0.3/6f5f04b92b1b35bc1d1e416172ae551ad33f6461/creditCardNfcReader-1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

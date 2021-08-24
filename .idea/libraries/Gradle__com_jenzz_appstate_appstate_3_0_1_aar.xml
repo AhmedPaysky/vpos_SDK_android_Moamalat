@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.jenzz.appstate:appstate:3.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ba73ff551fc495541e82efece04c9b09/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ba73ff551fc495541e82efece04c9b09/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ba73ff551fc495541e82efece04c9b09/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jenzz.appstate/appstate/3.0.1/172d87860b3cf0416099083695f3c56a9e545799/appstate-3.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jenzz.appstate/appstate/3.0.1/f22bf22206100ad563201dabb0b9edd4929c377b/appstate-3.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

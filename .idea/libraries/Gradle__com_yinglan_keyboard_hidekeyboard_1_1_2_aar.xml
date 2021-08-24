@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.yinglan.keyboard:hidekeyboard:1.1.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b8494305a7a3dd8cdcdaeb54c7a71c4f/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b8494305a7a3dd8cdcdaeb54c7a71c4f/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b8494305a7a3dd8cdcdaeb54c7a71c4f/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yinglan.keyboard/hidekeyboard/1.1.2/616f11de9f84142312e56da940450e98c9b6dad4/hidekeyboard-1.1.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yinglan.keyboard/hidekeyboard/1.1.2/26810d53004292231ae53a9c5f072a299c423a7c/hidekeyboard-1.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

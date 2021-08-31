@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vpos_SDK_android.iml" filepath="$PROJECT_DIR$/.idea/modules/vpos_SDK_android.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/vpos_SDK_android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/vpos_SDK_android.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/upgmodule-debug/vpos_SDK_android.upgmodule-debug.iml" filepath="$PROJECT_DIR$/.idea/modules/upgmodule-debug/vpos_SDK_android.upgmodule-debug.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/upgmodule-release/vpos_SDK_android.upgmodule-release.iml" filepath="$PROJECT_DIR$/.idea/modules/upgmodule-release/vpos_SDK_android.upgmodule-release.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vpos_SDK_android_Moamalat.iml" filepath="$PROJECT_DIR$/.idea/modules/vpos_SDK_android_Moamalat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/vpos_SDK_android_Moamalat.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/vpos_SDK_android_Moamalat.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/upgmodule-debug/vpos_SDK_android_Moamalat.upgmodule-debug.iml" filepath="$PROJECT_DIR$/.idea/modules/upgmodule-debug/vpos_SDK_android_Moamalat.upgmodule-debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/upgmodule-release/vpos_SDK_android_Moamalat.upgmodule-release.iml" filepath="$PROJECT_DIR$/.idea/modules/upgmodule-release/vpos_SDK_android_Moamalat.upgmodule-release.iml" />
     </modules>
   </component>
 </project>

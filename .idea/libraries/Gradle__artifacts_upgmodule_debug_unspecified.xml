@@ -4,6 +4,9 @@
       <root url="jar://$PROJECT_DIR$/upgmodule-debug/build/.transforms/5bec8eac43b244b59428697209374288/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/upgmodule-debug/build/.transforms/5bec8eac43b244b59428697209374288/res" />
       <root url="file://$PROJECT_DIR$/upgmodule-debug/build/.transforms/5bec8eac43b244b59428697209374288/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/upgmodule-debug/build/.transforms/d08dd360c2fe848cd2515d4a780b8139/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/upgmodule-debug/build/.transforms/d08dd360c2fe848cd2515d4a780b8139/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/upgmodule-debug/build/.transforms/d08dd360c2fe848cd2515d4a780b8139/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

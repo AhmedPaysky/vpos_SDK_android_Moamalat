@@ -2,11 +2,15 @@
   <library name="Gradle: ./app/libs/pay-cards.aar">
     <ANNOTATIONS>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/189faaccd9706fbd86885e09cdf489d1/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4c7d95d62d387da9a67da67a17aeabe7/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/189faaccd9706fbd86885e09cdf489d1/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/189faaccd9706fbd86885e09cdf489d1/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/189faaccd9706fbd86885e09cdf489d1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4c7d95d62d387da9a67da67a17aeabe7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4c7d95d62d387da9a67da67a17aeabe7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4c7d95d62d387da9a67da67a17aeabe7/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

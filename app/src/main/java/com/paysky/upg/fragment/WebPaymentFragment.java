@@ -113,7 +113,9 @@ public class WebPaymentFragment extends BaseFragment implements WebPaymentFragme
 
     @Override
     public void showAnimatedVideoTransactionFragment(DateTransactions dateTransactions) {
-        addNewFragmentNullBackStack(AnimationVideoTransactionsFragment.newInstance(dateTransactions), "AnimationVideoTransactionsFragment");
+//        addNewFragmentNullBackStack(AnimationVideoTransactionsFragment.newInstance(dateTransactions), "AnimationVideoTransactionsFragment");
+        addNewFragmentNullBackStack(ReceiptWithTransFragment.newInstance(dateTransactions), "ReceiptWithTransFragment");
+
     }
 
     boolean transactionComplete = false;

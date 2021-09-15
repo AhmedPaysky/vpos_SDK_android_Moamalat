@@ -2,11 +2,15 @@
   <library name="Gradle: com.jcodecraeer:xrecyclerview:1.6.0@aar">
     <ANNOTATIONS>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ad7477e858c80d7b60c198aaf582c939/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c4f30d17b3202b561c5768d3675f1ae7/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ad7477e858c80d7b60c198aaf582c939/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ad7477e858c80d7b60c198aaf582c939/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ad7477e858c80d7b60c198aaf582c939/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c4f30d17b3202b561c5768d3675f1ae7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c4f30d17b3202b561c5768d3675f1ae7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c4f30d17b3202b561c5768d3675f1ae7/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

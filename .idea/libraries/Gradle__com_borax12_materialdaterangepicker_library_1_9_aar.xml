@@ -4,6 +4,9 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6b6db1b7db26a11a86e727906a96b5d7/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6b6db1b7db26a11a86e727906a96b5d7/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6b6db1b7db26a11a86e727906a96b5d7/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/01c529c8867a904522d860115cef11b8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/01c529c8867a904522d860115cef11b8/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/01c529c8867a904522d860115cef11b8/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.borax12.materialdaterangepicker/library/1.9/98fa0a15b5e05db7f90f47a80522077a3d38a84d/library-1.9-javadoc.jar!/" />

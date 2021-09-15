@@ -522,7 +522,9 @@ public class ManualPaymentFragment extends BaseFragment implements ManualPayment
 
     @Override
     public void showAnimatedVideoTransactionFragment(DateTransactions dateTransactions) {
-        addNewFragmentNullBackStack(AnimationVideoTransactionsFragment.newInstance(dateTransactions), "AnimationVideoTransactionsFragment");
+//        addNewFragmentNullBackStack(AnimationVideoTransactionsFragment.newInstance(dateTransactions), "AnimationVideoTransactionsFragment");
+        addNewFragmentNullBackStack(ReceiptWithTransFragment.newInstance(dateTransactions), "ReceiptWithTransFragment");
+
     }
 
     @Override

@@ -2,11 +2,15 @@
   <library name="Gradle: com.blankj:utilcode:1.23.7@aar">
     <ANNOTATIONS>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/623ede52de5e4becf572da47353fb69f/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5513421296d2466ac3a210a63519e1d8/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/623ede52de5e4becf572da47353fb69f/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/623ede52de5e4becf572da47353fb69f/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/623ede52de5e4becf572da47353fb69f/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5513421296d2466ac3a210a63519e1d8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5513421296d2466ac3a210a63519e1d8/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5513421296d2466ac3a210a63519e1d8/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.blankj/utilcode/1.23.7/165a3bcddfc153508c5f4735f87131b734f862fc/utilcode-1.23.7-javadoc.jar!/" />
